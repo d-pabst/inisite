@@ -5,19 +5,18 @@ title_color:	"#DF01D7"
 
 Bei der Erstifahrt habt ihr die Gelegenheit, euch gegenseitig **kennenzulernen** und überaus nützliche Sachen fürs Studium zu erfahren. Wir möchten euch noch vor der Vorlesungszeit einen **Überblick** über die Wahlfächer und Anfängerpraktika verschaffen und eine Einführung in **Programme** wie z.B. LaTeX geben, da ihr diese bereits ab dem Studienbeginn brauchen werdet. Ein Hauptaspekt bleibt aber das Kennenlernen **in gemütlicher Atmosphäre**.
 
-## Die wichtigsten Fakten
+<!---## Die wichtigsten Fakten
 * **Wann:** Freitag, 15.10. bis Sonntag, 17.10.2021
 * **Wo:** teilweise online, vieles auch offline in Berlin
 * **Was:** nützliche Vorträge für euer Studium, Sportprogramm, Austausch und Vernetzung mit anderen Studis, Spaß
-* **Wie:** unter Einhaltung der 2G-Regel und mit Hygienekonzept
 
-**Leider ist es uns dieses Jahr nicht möglich euch eine "richtige" Erstifahrt zu bieten**. Damit ihr trotzdem die Gelegenheit habt, euch gegenseitig kennenzulernen und wir gemeinsam Spaß haben können, werden wir stattdessen ein hybrides Erstiwochende durchführen.
 
 **Tragt euch in den [E-Mail-Verteiler](https://lists.physik.tu-berlin.de/mailman/listinfo/erstifahrt) ein**, damit wir euch mit den aktuellsten Informationen versorgen können!
 
 ## Anfahrt
-Alle Veranstaltungen werden entweder online oder an einem gut erreichbaren öffentlichen Ort in Berlin statfinden. Genaueres entnehmt bitte dem detaillierten Programm, welches später veröffentlicht wird.
+Alle Veranstaltungen werden entweder online oder an einem gut erreichbaren öffentlichen Ort in Berlin statfinden. Genaueres entnehmt bitte dem detaillierten Programm, welches später veröffentlicht wird.-->
 
+<!---
 ## Anmeldung
 
 Die Anmeldeformalitäten werden bald hier und über den E-Mail-Verteiler bekanntgegeben.
@@ -30,17 +29,17 @@ Um euch beim E-Mail-Verteiler anzumelden, geht auf [https://lists.physik.tu-berl
 Um uns zu erreichen, schickt einfach [eine Mail an Inken (i.czesla@campus.tu-berlin.de)](mailto:i.czesla@campus.tu-berlin.de).
 Wenn ihr irgendwelche Fragen habt, stellt sie gerne!
 
+--->
+
 ## Zielgruppe
 Die Veranstaltung wird von Physik- und NidI-Studierenden gemeinsam organisiert und richtet sich im Wesentlichen an
 
-* die neuimmatrikulierten Bachelor-Physikstudierenden (also alle, die Physik im Wintersemester 2021/22 zu studieren beginnen) sowie
+* die neuimmatrikulierten Bachelor-Physikstudierenden  sowie
 * NidI-Erstis: Studierende aus dem [Studiengang Naturwissenschaften in der Informationsgesellschaft](http://www.galilea.tu-berlin.de/index.php?id=155&L=0 "NidI") (aufgrund der Nähe der Fächer und gemeinsamer Vorlesungen/Praktika)
 
-Außerdem eingeladen sind aber:
+Außerdem eingeladen sind aber Physik-Master-Erstis, die neu an der TU sind: Auch diesen möchten wir Vernetzung und Anschluss zur TU bieten. Wir haben in den letzten Jahren gute Erfahrungen damit gemacht. Das Programm richtet sich zwar mehr an Bachelor-Studierende, kann aber auch für Master-Erstis interessant sein und auf jeden Fall kann man sich mit an der TU erfahreneren Studierenden austauschen.
 
-* Physik-Bachelor-Zweitis: u.a. weil es im Sommersemester keine Erstifahrt gibt.
-* Physik-Master-Erstis, die neu an der TU sind: Auch diesen möchten wir Vernetzung und Anschluss zur TU bieten. Wir haben in den letzten Jahren gute Erfahrungen damit gemacht. Das Programm richtet sich zwar mehr an Bachelor-Studierende, kann aber auch für Master-Erstis interessant sein und auf jeden Fall kann man sich mit an der TU erfahreneren Studierenden austauschen.
-
+<!---
 ## Programm
 * Freitag 12:00-15:30 Uhr : [Offizielle Physik-Einführungsveranstaltung (Online)](https://www.naturwissenschaften.tu-berlin.de/studienfachberatung_physik/studienfachberatung_physik/)
 * Freitag (abends): Campus-Ralley (Auf dem TU-Campus natürlich)
@@ -97,4 +96,5 @@ Informationen folgen über den E-Mail-Verteiler.
 [^2]: NidIs: Siehe [Zielgruppe](#Zielgruppe "Zielgruppe")
 
 Wenn ihr irgendwelche Fragen habt, stellt sie gerne!
-**Wir freuen uns auf euch! ;)**
+**Wir freuen uns auf euch! ;)**--->
+
